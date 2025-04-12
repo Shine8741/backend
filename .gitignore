@@ -1,0 +1,16 @@
+# Ignore Python environment & system files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.csv
+*.ipynb_checkpoints/
+uploads/
+data/
+torgo_data/
+.vscode/
+.env
+.DS_Store
